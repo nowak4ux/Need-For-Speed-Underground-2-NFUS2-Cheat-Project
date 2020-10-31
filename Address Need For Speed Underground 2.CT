@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>214</ID>
+      <Description>"Nitro"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"SPEED2.EXE"+00483D74</Address>
+      <Offsets>
+        <Offset>45C</Offset>
+        <Offset>24</Offset>
+        <Offset>8</Offset>
+        <Offset>250</Offset>
+        <Offset>114</Offset>
+        <Offset>220</Offset>
+        <Offset>34</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3165</ID>
+      <Description>"Ultra Acceleration Speed"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"SPEED2.EXE"+0048F274</Address>
+      <Offsets>
+        <Offset>468</Offset>
+        <Offset>24</Offset>
+        <Offset>8</Offset>
+        <Offset>250</Offset>
+        <Offset>4</Offset>
+        <Offset>224</Offset>
+        <Offset>220</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1541</ID>
+      <Description>"Acceleration Speed ​​Increase"</Description>
+      <VariableType>Float</VariableType>
+      <Address>"THREADSTACK0"-00000714</Address>
+      <Offsets>
+        <Offset>28</Offset>
+        <Offset>30</Offset>
+        <Offset>4</Offset>
+        <Offset>0</Offset>
+        <Offset>0</Offset>
+        <Offset>18</Offset>
+        <Offset>34</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
