@@ -2,7 +2,6 @@
 
 #include <iostream>
 #include <Windows.h>
-#include <string>
 
 const int nitro_set = 50000;
 float default_speed = 350.0000000;
